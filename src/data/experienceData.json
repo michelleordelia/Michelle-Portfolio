@@ -1,0 +1,33 @@
+[
+  {
+    "title": "R&D Internship",
+    "location": "Rohde & Schwarz Asia, Singapore",
+    "description": [
+      "Executed and optimized test scripts for Air Traffic Control software, enhancing user experience and contributing to the on-time release of an updated software version.",
+      "Designed and developed an internal web application for Air Traffic Control using Node.js, Express.js, and ReactJS, integrating REST APIs for CRUD operations with a JSON file.",
+      "Deployed the web application as a Windows Service using WIX Toolset 3, and authored end-user and developer documentation to facilitate application usage and maintenance."
+    ],
+    "date": "May - Aug 2024",
+    "tech": ["JavaScript", "React", "CSS", "Node.js", "Express.js", "REST API", "Wix3 Tool"]
+  },
+  {
+    "title": "Web App Test Developer Internship",
+    "location": "Rohde & Schwarz Asia, Singapore",
+    "description": [
+      "Enhanced UI/UX and implemented new features for an Android app using Java, enabling real-time display of signals received from a receiver device.",
+      "Conducted manual regression testing on various Rohde & Schwarz products, reducing the overall testing phase timeline.",
+      "Developed a web application for an Air Traffic Control (ATC) project, utilizing Node.js with Express.js for input conversion, ReactJS for an intuitive frontend, and integrated APIs using REST API."
+    ],
+    "date": "Sep - Dec 2023",
+    "tech": ["Java", "JavaScript", "React", "CSS", "Node.js", "Express.js", "REST API"]
+  },
+  {
+    "title": "University",
+    "location": "Singapore University of Technology and Design (SUTD)",
+    "description": [
+      "Graduated with a Bachelor of Engineering majoring in Computer Science and Design (CSD) with Software Engineering and Financial Technology Track Specialization."
+    ],
+    "date": "Sep 2021 - June 2025",
+    "tech": []
+  }
+]
