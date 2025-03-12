@@ -45,25 +45,7 @@ body {
     -ms-transition: background-color 0.5s;
     -o-transition: background-color 0.5s;
   }
-  .btn-outline-primary {
-    color: var(--primary);
-    background-color: var(--white);
-    border: 1px solid var(--primary);
-  }
-  .btn-outline-primary:hover {
-    color: var(--white);
-    background-color: var(--primary);
-  }
-  .btn-primary {
-    color: var(--white);
-    background-color: var(--primary);
-    border: 1px solid var(--primary);
-  }
-  .btn-primary:hover {
-    color: var(--primary);
-    background-color: var(--white);
-  }
-  /* Global CSS Ends */
+
   /* Main Headings */
   
   /* Heading 1 */
