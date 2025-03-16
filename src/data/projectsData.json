@@ -36,7 +36,7 @@
         "description": "A web application for efficiently managing retailers' invoices and statements of accounts. Users can upload documents, which are then processed using OCR to extract data. The system stores this data in the backend, enabling seamless querying and listing of uploaded documents.",
         "role": "Collaborated with the team to iteratively refine user requirements based on client feedback. I designed the UI/UX in Figma alongside a teammate and developed a fully functional web application using ReactJS and CSS, ensuring a smooth user experience.",
         "image": "/images/SureLoginPage.png",
-        "figmaVideoLink": "/images/SureDemo.mp4",
+        "figmaVideoLink": "/images/SureDemoVideo.mp4",
         "githubLink": "https://github.com/reenee1601/C2I3"
     },
     {
