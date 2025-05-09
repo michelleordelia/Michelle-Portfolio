@@ -16,7 +16,7 @@ A web-based application that trains medical students in empathetic communication
 
 ### 🚇 MRT Crowd Monitoring System
 A real-time computer vision–based system that monitors crowd density in MRT train carriages using ESP32 cameras and cloud infrastructure.   
-**Tech:** React, Figma, AWS IoT Core, MQTT, Docker 
+**Tech:** React, Figma, AWS IoT Core, MQTT, Docker
 🏆 *Dell Technologies Cloud Native Award Winner*  
 [View Project](https://github.com/michelleordelia/50.046-iot-project)
 
