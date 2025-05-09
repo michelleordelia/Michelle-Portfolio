@@ -23,9 +23,9 @@ A real-time computer vision–based system that monitors crowd density in MRT tr
 
 ## 🛠️ Tech Stack
 
-- **Languages:** JavaScript, HTML/CSS, Python, Java
-- **Frameworks:** React, Tailwind CSS
-- **Tools:** Figma, Git, Jupyter, LaTeX
+- **Languages:** JavaScript, HTML/CSS, Python, Java, C, SQL
+- **Frameworks:** React, Tailwind CSS, NodeJS
+- **Tools:** Figma, Git, Jupyter, LaTeX, Miro
 
 ## 📫 Let's Connect
 
