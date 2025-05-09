@@ -2,52 +2,74 @@
     {
         "id": "project1",
         "title": "EmpathIQ",
+        "award":"Design and AI Award 2nd Winner",
         "shortDescription": "AI-powered communication coaching simulator software application to enhance medical students communication training.",
-        "description": "To enhance communication training for medical students and address current limitations, our team collaborated with Tan Tock Seng Hospital to develop EmpathIQ—an AI-powered communication coaching simulator. This software application serves as a training tool for students to improve their communication skills effectively.",
-        "role": "During this project, I was responsible for designing the UI/UX of the web application, creating an intuitive and efficient training experience for medical students. After finalizing the design, I transitioned into frontend development, bringing the interface to life and implementing interactive elements. Additionally, I worked on integrating the frontend with the backend through REST APIs for a smooth data flow and functionality across the application.",
-        "image": "/images/EmpathIQLogo.png",
-        "figmaVideoLink": "",
-        "githubLink": ""
+        "description": "To enhance communication training for medical students and address current limitations, our team collaborated with Tan Tock Seng Hospital to develop EmpathIQ—an AI-powered communication coaching simulator. This software application uses a virtual patient simulator to train medical students in real-time, providing immediate, personalized feedback on their tone, facial expressions, and conversational skills.",
+        "role": "I led the UI/UX design and frontend development of this AI-powered medical training application. Starting from user research and wireframing, I designed an intuitive interface focused on real-time communication coaching. I then brought the design to life through responsive, interactive frontend code, and integrated it with backend services using REST APIs. To showcase the platform, I also designed and curated content for a virtual presentation, which is available in the link below.",
+        "image": "/images/EmpathIQCover.png",
+        "figmaVideoLink": "https://youtu.be/qJWv99rz5KU",
+        "githubLink": "",
+        "websiteLink":"https://capstoneshowcase.sutd.edu.sg/project/proj-s32-ttsh_comms-coachg-simultr/"
     },
     {
         "id": "project2",
         "title": "MRT Crowd Monitoring System",
         "shortDescription": "A computer vision system that analyzes train carriage crowd density using existing cameras, with a web dashboard for real-time occupancy updates. ",
+        "award":"Dell Technologies Cloud Native Award Winner",
         "description": "The MRT system in Singapore, while efficient and reliable, faces several challenges that impact passenger experience and system performance, particularly during peak hours. To solve this problem, our team developed a MRT Crowd Monitoring System that leverages existing camera installations and advanced computer vision technology to accurately assess crowd density within train carriages. The system is designed to provide real-time updates to passengers about carriage occupancy levels, enabling better crowd distribution across carriages. This system leverages an ESP32 with an OV7670 camera for cost-effective, low-power train carriage monitoring. The ESP32 acts as a web server for real-time image capture and LED state updates, while a Raspberry Pi processes images and publishes them to MQTT topics for modular data flow. AWS IoT Core enables reliable communication between distributed components. Python & OpenCV (within Docker containers) handle computer vision tasks like LED detection. A user-friendly dashboard provides real-time LED and crowd monitoring, enhancing decision-making and operational efficiency. Dockerized deployment ensures scalability and consistency across devices. \n Successfully created a real-time monitoring system proof-of-concept for train carriage crowd density and was awarded the Dell Book Prize in Cloud Computing and IoT Course for the top student project.",
         "role": "In this project, I designed the dashboard User Interface (UI) in Figma and iterated on it based on team feedback to improve its functionality. After finalizing the design, I implemented it as a web application using ReactJS and CSS. I also integrated the frontend with AWS MQTT, computer vision, and hardware components to enable real-time data flow. Additionally, I collaborated with the team to create presentation slides and co-wrote the project report.",
         "image": "/images/IoTPage.png",
         "figmaVideoLink": "/images/IoTDashboardVideo.mp4",
-        "githubLink": "https://github.com/michelleordelia/50.046-iot-project"
+        "githubLink": "https://github.com/michelleordelia/50.046-iot-project",
+        "websiteLink":""
     },
     {
         "id": "project3",
+        "title": "Miselading News Detection",
+        "shortDescription": "A lightweight fake news detection model designed for real-time use, using linguistic and text pattern analysis.",
+        "award":"",
+        "description": "To address the growing threat of online misinformation, our team developed a lightweight ensemble-based fake news detection system, optimized for deployment on resource-constrained devices like smartphones. We engineered two main types of features, stylometric (writing style) and semantic (text embeddings like TF-IDF and RoBERTa), to train traditional machine learning models including Random Forest and Logistic Regression. After iterative tuning and experimentation, we built a final stacked ensemble combining the top-performing models, achieving over 95% accuracy on benchmark datasets while maintaining computational efficiency. This solution not only offers real-time classification capabilities but also contributes to media literacy, public health, and digital trust under the UN’s Sustainable Development Goals.",
+        "role": "I was responsible for developing and evaluating the Gaussian Naive Bayes classifier as part of our iterative experimentation process. This involved tuning hyperparameters, analyzing feature performance, and benchmarking model accuracy to help identify candidates for the final ensemble. I also co-authored the final technical report using LaTeX, documenting our methodology and results with clarity and structure.",
+        "image": "/images/FakenewsCover.png",
+        "figmaVideoLink": "",
+        "githubLink": "https://github.com/michelleordelia/WELFake_AI_Project",
+        "websiteLink":""
+    },
+    {
+        "id": "project4",
         "title": "MUVE",
         "shortDescription": "A gamified virtual reality museum experience made in Unity, for the Meta Quest 2/3.",
+        "award":"",
         "description": "To overcome the problem of Accessibility to Art and Cultural Heritage, where physical, financial or geographical barriers prevent people from visiting museums in person. Our team decided to leverage virtual reality (VR) technology to create an immersive museum experience that will make cultural heritage accessible to diverse audiences worldwide.",
         "role": "",
         "image": "/images/MuveLogo.png",
         "figmaVideoLink": "/images/MuveDemo.mp4",
-        "githubLink": "https://github.com/seahyx/Muve-Virtual-Museum"
+        "githubLink": "https://github.com/seahyx/Muve-Virtual-Museum",
+        "websiteLink":""
     },
     {
-        "id": "project4",
+        "id": "project5",
         "title": "SuRe",
         "shortDescription": "A software application for retailers to manage their invoices and statement of accounts.",
+        "award":"",
         "description": "A web application for efficiently managing retailers' invoices and statements of accounts. Users can upload documents, which are then processed using OCR to extract data. The system stores this data in the backend, enabling seamless querying and listing of uploaded documents.",
         "role": "Collaborated with the team to iteratively refine user requirements based on client feedback. I designed the UI/UX in Figma alongside a teammate and developed a fully functional web application using ReactJS and CSS, ensuring a smooth user experience.",
         "image": "/images/SureLoginPage.png",
         "figmaVideoLink": "/images/SureDemoVideo.mp4",
-        "githubLink": "https://github.com/reenee1601/C2I3"
+        "githubLink": "https://github.com/reenee1601/C2I3",
+        "websiteLink":""
     },
     {
-        "id": "project5",
+        "id": "project6",
         "title": "GRABNGO",
         "shortDescription": "A mobile application for SUTD students and staff to pre-order meals and reduce canteen wait times during peak hours. ",
+        "award":"",
         "description": "The Grab-N-Go mobile application provides a convenient solution for SUTDents and staff to reduce the time spent waiting in long queues at the school canteen during peak hours. By allowing users to pre-order their lunch or dinner through the app, they can avoid the hassle of waiting in line and instead, collect their food at their preferred time. Grab-N-Go is designed to scale as more stalls expand into SUTD. To ensure maintainability and robustness, it follows the MVC architectural pattern MVC to handles data storage, Firebase queries, API communication, manages application logic, user interactions, and provides the graphical interface using Android Studio XML layouts.",
         "role": "In this project, I contributed as a full-stack developer for several pages, starting with designing the UI in Figma and translating it into XML layouts. I developed the backend using Firebase Realtime Database and integrated both the frontend and backend to ensure seamless functionality.",
         "image": "/images/GrabngoLogo.png",
         "figmaVideoLink": "/images/GrabngoDemo.mp4",
-        "githubLink": "https://github.com/xueminzzz/Grab-N-Go"
+        "githubLink": "https://github.com/xueminzzz/Grab-N-Go",
+        "websiteLink":""
       }
 ]
   

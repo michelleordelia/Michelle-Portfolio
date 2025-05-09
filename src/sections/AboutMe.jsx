@@ -9,7 +9,7 @@ export default function AboutMe() {
                 <div className="flex flex-col items-start gap-[21.333px]">
                     <h3 className="font-bold text-[var(--heading-color)]">Hi! I'm <span className="text-[var(--primary)]">MICHELLE ORDELIA</span> -</h3>
                     <h1 className="font-bold text-[var(--heading-color)] self-stretch">
-                        <span className="inline-block transition-transform transform hover:scale-110 cursor-auto">Software Engineer</span>
+                        <span className="inline-block transition-transform transform hover:scale-110 cursor-auto">Software Developer</span>
                     </h1>
                     <p className="text-md font-normal text-[var(--text-color)] leading-[30px] mt-2">
                         Final-year student at the Singapore University of Technology and Design (SUTD), pursuing Bachelor of Engineering in <span className="font-bold text-[var(--primary)]">Computer Science and Design (CSD)</span> with a specialization in Software Engineering and Financial Technology.
